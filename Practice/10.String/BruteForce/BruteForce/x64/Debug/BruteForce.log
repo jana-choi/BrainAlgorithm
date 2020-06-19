@@ -1,0 +1,4 @@
+﻿  Test_BruteForce.cpp
+D:\Development\GitHub\BrainAlgorithm\Practice\10.String\BruteForce\BruteForce\Test_BruteForce.cpp(31,31): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Development\GitHub\BrainAlgorithm\Practice\10.String\BruteForce\BruteForce\Test_BruteForce.cpp(43,72): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BruteForce.vcxproj -> D:\Development\GitHub\BrainAlgorithm\Practice\10.String\BruteForce\x64\Debug\BruteForce.exe
