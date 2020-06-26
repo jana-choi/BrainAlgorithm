@@ -1,0 +1,4 @@
+﻿  Huffman.cpp
+D:\Development\GitHub\BrainAlgorithm\Practice\14.GreedyAlgorithm\Huffman\Huffman\Huffman.cpp(162,15): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+D:\Development\GitHub\BrainAlgorithm\Practice\14.GreedyAlgorithm\Huffman\Huffman\Huffman.cpp(186,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Huffman.vcxproj -> D:\Development\GitHub\BrainAlgorithm\Practice\14.GreedyAlgorithm\Huffman\x64\Debug\Huffman.exe
